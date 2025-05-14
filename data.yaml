@@ -1,0 +1,7 @@
+train: /Users/apple/Documents/Ammag-Project/Web App/train
+val: /Users/apple/Documents/Ammag-Project/Web App/valid
+test: /Users/apple/Documents/Ammag-Project/Web App/test
+
+nc: 1
+names: ['BANNER']
+
