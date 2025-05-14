@@ -31,6 +31,7 @@ Follow these steps to set up and run the project:
     streamlit run ./cba_ai.py --server.maxUploadSize 1000.
 
 # Directory Structure
+```
 ├── cba_ai.py                # Main application script
 ├── data.yaml                # Configuration file
 ├── models/                  # Pre-trained YOLO models
@@ -41,3 +42,4 @@ Follow these steps to set up and run the project:
 ├── README.md                # Project documentation
 ├── requirements.txt         # Python dependencies
 └── Test Data/               # Sample test data
+```
